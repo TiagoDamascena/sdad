@@ -4,6 +4,7 @@ A lightweight open standard for software teams working with AI agents.
 
 SDAD defines a set of principles for keeping humans in control of product direction while leveraging agents as capable executors of well-defined work.
 
+Read the [MANIFESTO](./MANIFESTO.md) to understand the philosophy behind SDAD.
 
 ## The problem
 
@@ -15,3 +16,9 @@ SDAD is a response to that pattern.
 ## Core idea
 
 Good specs make agents predictable, responsible engineers make products sustainable. SDAD is the bridge between the two, a set of principles that lets teams move fast with agents without losing sight of where they are going.
+
+## How to adopt SDAD
+
+SDAD is a philosophy, not a tool. There is no installation step.
+
+To adopt it, read the [MANIFESTO](./MANIFESTO.md) and discuss it with your team. The principles are intentionally implementation-agnostic, they apply regardless of which agents, IDEs, or workflows you use.
