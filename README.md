@@ -22,3 +22,14 @@ Good specs make agents predictable, responsible engineers make products sustaina
 SDAD is a philosophy, not a tool. There is no installation step.
 
 To adopt it, read the [MANIFESTO](./MANIFESTO.md) and discuss it with your team. The principles are intentionally implementation-agnostic, they apply regardless of which agents, IDEs, or workflows you use.
+
+The `reference/` directory contains a reference implementation: one concrete way to put these principles into practice. It is a starting point, not a prescription. Teams are encouraged to adapt it to their context and preferences.
+
+Browse the [reference implementation](./reference/README.md) to see more.
+
+
+## License
+
+The SDAD manifesto is licensed under [CC BY 4.0](./LICENSE). This means you are free to share, adapt, and build upon it, including creating your own methodology based on SDAD, as long as you give appropriate credit to the original work.
+
+The reference implementation under `reference/` is licensed under [MIT](./reference/LICENSE). You are free to use, copy, modify, and distribute it for any purpose, including commercially, with no obligation to credit the original, though we appreciate when teams do.
